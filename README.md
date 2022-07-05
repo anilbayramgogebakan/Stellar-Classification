@@ -218,13 +218,13 @@ In our implementation of the code, we initially focused on generating a single t
 
 Gini index is found by subtracting the sum of the squared probabilities of different classes in the data from 1 such that:
 
-![Figure-9.1][link8.1]
+![Figure-9.1][link9.1]
 
 Here C stands for the classes in the data which are star, galaxy and quasar. And 𝑝𝑖 is the probability of choosing the class i from the data of the branch. Then using the Gini values found for parent node, and its children nodes, the information gain is calculated. We want information gain to be always maximized when we are splitting a node, therefore, the final threshold we chose for that node is the one that gives the maximum information gain [7].
 
 The formula for the Information Gain is as the following
 
-![Figure-9.2][link8.2]
+![Figure-9.2][link9.2]
 
 Here IG stands for Information gain, 𝐼(𝐷𝑃) represents the information of the parent node, in our case it is Gini of the parent node, 𝐼(𝐷𝑙𝑒𝑓𝑡) stands for the Gini of the left child node and 𝐼(𝐷𝑟𝑖𝑔ℎ𝑡) is the Gini of the right child node. 𝑁𝑝,𝑁𝑙𝑒𝑓𝑡,𝑁𝑟𝑖𝑔ℎ𝑡 represent the number of the element in parent, left child and right child respectively.
 
