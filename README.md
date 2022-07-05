@@ -24,9 +24,10 @@
 [link_table2]: https://github.com/anilbayramgogebakan/Stellar-Classification/blob/main/src/Table2.jpg
 [link_table3]: https://github.com/anilbayramgogebakan/Stellar-Classification/blob/main/src/Table3.jpg
 [link_table4]: https://github.com/anilbayramgogebakan/Stellar-Classification/blob/main/src/Table4.jpg
+
 # Stellar Classification by Using Different Machine Learning Techniques
-<div style="text-align: right"> Anıl Bayram Göğebakan </div>
-<div style="text-align: right"> İsmail Görkem Yeni </div>
+
+*Anıl Bayram Göğebakan, İsmail Görkem Yeni*
 
 ## 1. Abstract
 
