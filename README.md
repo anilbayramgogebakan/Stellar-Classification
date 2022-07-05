@@ -255,7 +255,7 @@ We believe all of our methods works properly considering the data we have and th
 Table 4. Final Test Accuracy Table for the Methods
 </p>
 
-## 5. Coclusion
+## 5. Conclusion
 
 The purpose of this project is to predict the type of the stellar object from the data of the space telescope in the observatories or space such as James Webb Space Telescope. Firstly, the class imbalance problem is tried to be handled since almost 2/3 of the data is specified as ‘Galaxy’, then using the balanced dataset, we believe that the results we acquired are satisfactory.
 
