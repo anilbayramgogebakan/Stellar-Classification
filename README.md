@@ -1,3 +1,29 @@
+[link1]: https://github.com/anilbayramgogebakan/Stellar-Classification/blob/main/src/Fig1.jpg
+[link2]: https://github.com/anilbayramgogebakan/Stellar-Classification/blob/main/src/Fig2.png
+[link3]: https://github.com/anilbayramgogebakan/Stellar-Classification/blob/main/src/Fig3.jpg
+[link3.5]: https://github.com/anilbayramgogebakan/Stellar-Classification/blob/main/src/Fig3.5.jpg
+[link4]: https://github.com/anilbayramgogebakan/Stellar-Classification/blob/main/src/Fig4.jpg
+[link5]: https://github.com/anilbayramgogebakan/Stellar-Classification/blob/main/src/Fig5.png
+[link5.5]: https://github.com/anilbayramgogebakan/Stellar-Classification/blob/main/src/Fig5.5.jpg
+[link5.75]: https://github.com/anilbayramgogebakan/Stellar-Classification/blob/main/src/Fig5.75.jpg
+[link5.8]: https://github.com/anilbayramgogebakan/Stellar-Classification/blob/main/src/Fig5.8.jpg
+[link5.90]: https://github.com/anilbayramgogebakan/Stellar-Classification/blob/main/src/Fig5.90.jpg
+[link5.91]: https://github.com/anilbayramgogebakan/Stellar-Classification/blob/main/src/Fig5.91.jpg
+[link5.92]: https://github.com/anilbayramgogebakan/Stellar-Classification/blob/main/src/Fig5.92.jpg
+[link5.93]: https://github.com/anilbayramgogebakan/Stellar-Classification/blob/main/src/Fig5.93.jpg
+[link5.94]: https://github.com/anilbayramgogebakan/Stellar-Classification/blob/main/src/Fig5.94.jpg
+[link6]: https://github.com/anilbayramgogebakan/Stellar-Classification/blob/main/src/Fig6.jpg
+[link7]: https://github.com/anilbayramgogebakan/Stellar-Classification/blob/main/src/Fig7.jpg
+[link8]: https://github.com/anilbayramgogebakan/Stellar-Classification/blob/main/src/Fig8.jpg
+[link9]: https://github.com/anilbayramgogebakan/Stellar-Classification/blob/main/src/Fig9.jpg
+[link9.1]: https://github.com/anilbayramgogebakan/Stellar-Classification/blob/main/src/Fig9.1.jpg
+[link9.2]: https://github.com/anilbayramgogebakan/Stellar-Classification/blob/main/src/Fig9.2.jpg
+[link10]: https://github.com/anilbayramgogebakan/Stellar-Classification/blob/main/src/Fig10.jpg
+[link11]: https://github.com/anilbayramgogebakan/Stellar-Classification/blob/main/src/Fig11.jpg
+[link_table1]: https://github.com/anilbayramgogebakan/Stellar-Classification/blob/main/src/Table1.jpg
+[link_table2]: https://github.com/anilbayramgogebakan/Stellar-Classification/blob/main/src/Table2.jpg
+[link_table3]: https://github.com/anilbayramgogebakan/Stellar-Classification/blob/main/src/Table3.jpg
+[link_table4]: https://github.com/anilbayramgogebakan/Stellar-Classification/blob/main/src/Table4.jpg
 # Stellar Classification by Using Different Machine Learning Techniques
 
 ## 1. Abstract
